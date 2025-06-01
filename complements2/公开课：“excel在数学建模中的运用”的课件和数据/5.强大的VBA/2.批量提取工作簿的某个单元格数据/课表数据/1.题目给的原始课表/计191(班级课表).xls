@@ -1,0 +1,610 @@
+ 
+    <table style="width: 100%;">
+            <tr><td colspan="8" style="font-size: 2em;font-weight:bold;text-align: center;">班级课表</td></tr>
+            <tr><td colspan="8" style="font-size: 1.5em;font-weight:bold;text-align: center;">2019-2020学年第一学期</td></tr>
+            <tr><td colspan="8">班级名称:计191&nbsp;&nbsp;&nbsp; 所属专业:计算机科学与技术&nbsp;&nbsp;&nbsp; 应选学分:59.5 &nbsp;&nbsp;&nbsp; 计划人数/实际人数: 90/50</td></tr>
+
+    </table>
+<table width="100%" id="manualArrangeCourseTable" align="center" class="gridtable" style="text-align:center" border="1">
+    <thead>
+    <tr>
+        <th style="background-color:#DEEDF7;" height="10px" width="">节次/周次
+        </td>
+            <th style="background-color:#DEEDF7;">
+                <font size="2px">星期一</font>
+            </th>
+            <th style="background-color:#DEEDF7;">
+                <font size="2px">星期二</font>
+            </th>
+            <th style="background-color:#DEEDF7;">
+                <font size="2px">星期三</font>
+            </th>
+            <th style="background-color:#DEEDF7;">
+                <font size="2px">星期四</font>
+            </th>
+            <th style="background-color:#DEEDF7;">
+                <font size="2px">星期五</font>
+            </th>
+            <th style="background-color:#DEEDF7;">
+                <font size="2px">星期六</font>
+            </th>
+            <th style="background-color:#DEEDF7;">
+                <font size="2px">星期日</font>
+            </th>
+    </tr>
+    </thead>
+
+        <tr>
+            <td style="background-color:#EEFF00">
+                <font size="2px"> 第一节</font><br>
+08:00 -
+08:45
+            </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+高等数学A（1）         * 
+        
+        (20921087.01)
+            (张鸿鹰)
+        <br style="mso-data-placement: same-cell">
+        (3-18  基础楼A座-东侧207教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+高等数学A（1）         * 
+        
+        (20921087.04)
+            (卢崇煜)
+        <br style="mso-data-placement: same-cell">
+        (3-18  基础楼A座-西侧239教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+高等数学A（1）         * 
+        
+        (20921087.07)
+            (赵丽,徐志洁)
+        <br style="mso-data-placement: same-cell">
+        (3-18  基础楼A座-西侧327教室
+        (大兴校区))
+        
+                        </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+大学英语（1）         * 
+        
+        (20825071.17)
+            (孙华)
+        <br style="mso-data-placement: same-cell">
+        (3-14  基础楼A座-西侧124教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+大学英语（1）         * 
+        
+        (20825071.20)
+            (叶青)
+        <br style="mso-data-placement: same-cell">
+        (3-13单  基础楼A座-东侧115教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+大学英语（1）         * 
+        
+        (20825071.20)
+            (叶青)
+        <br style="mso-data-placement: same-cell">
+        (4-14双  基础楼A座-西侧423教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+大学英语（1）         * 
+        
+        (20825071.23)
+            (陈品)
+        <br style="mso-data-placement: same-cell">
+        (3-14  基础楼A座-东侧316教室
+        (大兴校区))
+        
+                        </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+画法几何B        
+        
+        (20924044.01)
+            (刘晓然)
+        <br style="mso-data-placement: same-cell">
+        (3-18  基础楼A座-西侧424教室
+        (大兴校区))
+        
+                        </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+高等数学A（1）         * 
+        
+        (20921087.01)
+            (张鸿鹰)
+        <br style="mso-data-placement: same-cell">
+        (3-18  基础楼A座-东侧207教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+高等数学A（1）         * 
+        
+        (20921087.04)
+            (卢崇煜)
+        <br style="mso-data-placement: same-cell">
+        (3-18  基础楼A座-西侧239教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+高等数学A（1）         * 
+        
+        (20921087.07)
+            (赵丽,徐志洁)
+        <br style="mso-data-placement: same-cell">
+        (3-18  基础楼A座-西侧327教室
+        (大兴校区))
+        
+                        </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:#EEFF00">
+                <font size="2px"> 第二节</font><br>
+08:50 -
+09:35
+            </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:#EEFF00">
+                <font size="2px"> 第三节</font><br>
+09:55 -
+10:40
+            </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+体育1        
+        
+        (21321002.50)
+            (肖洪凡)
+        <br style="mso-data-placement: same-cell">
+        (3-17  大兴体育场-西侧体育场
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+体育1        
+        
+        (21321002.51)
+            (付玉楠)
+        <br style="mso-data-placement: same-cell">
+        (3-17  大兴体育场-西侧体育场
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+体育1        
+        
+        (21321002.52)
+            (李焓铷)
+        <br style="mso-data-placement: same-cell">
+        (3-17  大兴体育场-西侧体育场
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+体育1        
+        
+        (21321002.01)
+            (康钧)
+        <br style="mso-data-placement: same-cell">
+        (3-17  大兴体育场-西侧体育场
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+体育1        
+        
+        (21321002.49)
+            (周凌)
+        <br style="mso-data-placement: same-cell">
+        (3-17  大兴体育场-西侧体育场
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+体育1        
+        
+        (21321002.12)
+            (李林云)
+        <br style="mso-data-placement: same-cell">
+        (3-17  大兴体育场-西侧体育场
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+体育1        
+        
+        (21321002.13)
+            (张胜)
+        <br style="mso-data-placement: same-cell">
+        (3-17  大兴体育场-西侧体育场
+        (大兴校区))
+        
+                        </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+线性代数        
+        
+        (20921090.05)
+            (于健)
+        <br style="mso-data-placement: same-cell">
+        (3-12  基础楼A座-西侧327教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+线性代数        
+        
+        (20921090.04)
+            (吴尚文)
+        <br style="mso-data-placement: same-cell">
+        (3-12  基础楼A座-东侧207教室
+        (大兴校区))
+        
+                        </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+高等数学A（1）         * 
+        
+        (20921087.01)
+            (张鸿鹰)
+        <br style="mso-data-placement: same-cell">
+        (3-18  基础楼A座-东侧207教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+高等数学A（1）         * 
+        
+        (20921087.04)
+            (卢崇煜)
+        <br style="mso-data-placement: same-cell">
+        (3-18  基础楼A座-西侧239教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+高等数学A（1）         * 
+        
+        (20921087.07)
+            (赵丽,徐志洁)
+        <br style="mso-data-placement: same-cell">
+        (3-18  基础楼A座-西侧327教室
+        (大兴校区))
+        
+                        </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+大学英语（1）         * 
+        
+        (20825071.17)
+            (孙华)
+        <br style="mso-data-placement: same-cell">
+        (3-13单  基础楼A座-西侧124教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+大学英语（1）         * 
+        
+        (20825071.17)
+            (孙华)
+        <br style="mso-data-placement: same-cell">
+        (4-14双  基础楼A座-西侧435教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+大学英语（1）         * 
+        
+        (20825071.20)
+            (叶青)
+        <br style="mso-data-placement: same-cell">
+        (3-14  基础楼A座-东侧115教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+大学英语（1）         * 
+        
+        (20825071.23)
+            (陈品)
+        <br style="mso-data-placement: same-cell">
+        (3-13单  基础楼A座-西侧435教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+大学英语（1）         * 
+        
+        (20825071.23)
+            (陈品)
+        <br style="mso-data-placement: same-cell">
+        (4-14双  基础楼A座-东侧316教室
+        (大兴校区))
+        
+                        </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+C语言程序设计        
+        
+        (20724232.01)
+            (赵春晓)
+        <br style="mso-data-placement: same-cell">
+        (3-18  基础楼B座-210教室
+        (大兴校区))
+        
+                        </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:#EEFF00">
+                <font size="2px"> 第四节</font><br>
+10:45 -
+11:30
+            </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:#33BB00">
+                <font size="2px"> 第五节</font><br>
+13:30 -
+14:15
+            </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+军事理论        
+        
+        (23501009.01)
+            (张庆春)
+        <br style="mso-data-placement: same-cell">
+        (4-6双,7-13  基础楼A座-报告厅
+        (大兴校区))
+        
+                        </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+线性代数        
+        
+        (20921090.05)
+            (于健)
+        <br style="mso-data-placement: same-cell">
+        (3-12  基础楼A座-西侧327教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+线性代数        
+        
+        (20921090.04)
+            (吴尚文)
+        <br style="mso-data-placement: same-cell">
+        (3-12  基础楼A座-东侧207教室
+        (大兴校区))
+        
+                        </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:#33BB00">
+                <font size="2px"> 第六节</font><br>
+14:20 -
+15:05
+            </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:#33BB00">
+                <font size="2px"> 第七节</font><br>
+15:15 -
+16:00
+            </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+思想道德修养与法律基础        
+        
+        (20821035.03)
+            (张溢木)
+        <br style="mso-data-placement: same-cell">
+        (3-18  基础楼A座-西侧239教室
+        (大兴校区))
+        
+                        </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td rowspan="3"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+C语言程序设计        
+        
+        (20724232.01)
+            (赵春晓)
+        <br style="mso-data-placement: same-cell">
+        (3-18  基础楼B座-208教室
+        (大兴校区))
+        
+                        </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:#33BB00">
+                <font size="2px"> 第八节</font><br>
+16:10 -
+16:55
+            </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:#33BB00">
+                <font size="2px"> 第九节</font><br>
+17:00 -
+17:45
+            </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:pink">
+                <font size="2px"> 第十节</font><br>
+18:30 -
+19:15
+            </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:pink">
+                <font size="2px"> 第十一节</font><br>
+19:20 -
+20:05
+            </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:pink">
+                <font size="2px"> 第十二节</font><br>
+20:10 -
+20:55
+            </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr style="height: 30px;">
+                <td>备注:</td>
+                <td>*表示集中考试 #表示非必修课</td>
+                <td style="text-align: left" colspan="6">
+                    军训  1-2周;
+                    军训  1-2周;
+                </td>
+        </tr>
+<table>
+        <table style="border: #0b90f4 1px solid;width: 100%;border-collapse: collapse">
+            <tr>
+                <td colspan="8">各校区作息时间说明:</td>
+            </tr>
+                    <tr>
+                        <td style="border: #2e9ad0 1px solid" rowspan="2">西城校区</td>
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第一节     08:00~
+    08:45
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第二节     08:50~
+    09:35
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第三节     09:55~
+    10:40
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第四节     10:45~
+    11:30
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第五节     13:30~
+    14:15
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第六节     14:20~
+    15:05
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第七节     15:15~
+    16:00
+</td>
+                    </tr><tr>
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第八节     16:10~
+    16:55
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第九节     17:00~
+    17:45
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第十节     18:30~
+    19:15
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第十一节     19:20~
+    20:05
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第十二节     20:10~
+    20:55
+</td>
+                    
+                            <td style="border: #2e9ad0 1px solid"></td>
+                            <td style="border: #2e9ad0 1px solid"></td>
+                    </tr>
+                    <tr>
+                        <td style="border: #2e9ad0 1px solid" rowspan="2">大兴校区</td>
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第一节     08:00~
+    08:45
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第二节     08:50~
+    09:35
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第三节     09:55~
+    10:40
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第四节     10:45~
+    11:30
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第五节     13:30~
+    14:15
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第六节     14:20~
+    15:05
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第七节     15:15~
+    16:00
+</td>
+                    </tr><tr>
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第八节     16:10~
+    16:55
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第九节     17:00~
+    17:45
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第十节     18:30~
+    19:15
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第十一节     19:20~
+    20:05
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第十二节     20:10~
+    20:55
+</td>
+                    
+                            <td style="border: #2e9ad0 1px solid"></td>
+                            <td style="border: #2e9ad0 1px solid"></td>
+                    </tr>
+
+        </table>
+

@@ -1,0 +1,586 @@
+ 
+    <table style="width: 100%;">
+            <tr><td colspan="8" style="font-size: 2em;font-weight:bold;text-align: center;">班级课表</td></tr>
+            <tr><td colspan="8" style="font-size: 1.5em;font-weight:bold;text-align: center;">2019-2020学年第一学期</td></tr>
+            <tr><td colspan="8">班级名称:土木实验161&nbsp;&nbsp;&nbsp; 所属专业:土木工程（土木英才实验班）&nbsp;&nbsp;&nbsp; 应选学分:55.5 &nbsp;&nbsp;&nbsp; 计划人数/实际人数: 32/32</td></tr>
+
+    </table>
+<table width="100%" id="manualArrangeCourseTable" align="center" class="gridtable" style="text-align:center" border="1">
+    <thead>
+    <tr>
+        <th style="background-color:#DEEDF7;" height="10px" width="">节次/周次
+        </td>
+            <th style="background-color:#DEEDF7;">
+                <font size="2px">星期一</font>
+            </th>
+            <th style="background-color:#DEEDF7;">
+                <font size="2px">星期二</font>
+            </th>
+            <th style="background-color:#DEEDF7;">
+                <font size="2px">星期三</font>
+            </th>
+            <th style="background-color:#DEEDF7;">
+                <font size="2px">星期四</font>
+            </th>
+            <th style="background-color:#DEEDF7;">
+                <font size="2px">星期五</font>
+            </th>
+            <th style="background-color:#DEEDF7;">
+                <font size="2px">星期六</font>
+            </th>
+            <th style="background-color:#DEEDF7;">
+                <font size="2px">星期日</font>
+            </th>
+    </tr>
+    </thead>
+
+        <tr>
+            <td style="background-color:#EEFF00">
+                <font size="2px"> 第一节</font><br>
+08:00 -
+08:45
+            </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+建筑基础设计        
+        
+        (20226092.01)
+            (孔令明)
+        <br style="mso-data-placement: same-cell">
+        (6-17  基础楼A座-东侧308教室
+        (大兴校区))
+        
+                        </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+桥梁基础设计        
+        
+        (20225147.01)
+            (侯苏伟)
+        <br style="mso-data-placement: same-cell">
+        (6-9  基础楼A座-西侧323教室
+        (大兴校区))
+        
+                        </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+公路工程概预算        
+        
+        (20225109.02)
+            (金珊珊)
+        <br style="mso-data-placement: same-cell">
+        (16-17  基础楼B座-310教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+公路工程概预算        
+        
+        (20225109.02)
+            (金珊珊)
+        <br style="mso-data-placement: same-cell">
+        (6-15  学院楼B座-317教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+隧道及边坡工程        
+        
+        (20226111.01)
+            (屈小磊)
+        <br style="mso-data-placement: same-cell">
+        (6-9  基础楼A座-东侧107教室
+        (大兴校区))
+        
+                        </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+土木工程施工II        
+        
+        (20225154.01)
+            (张新天)
+        <br style="mso-data-placement: same-cell">
+        (6-9  基础楼A座-东侧311教室
+        (大兴校区))
+        
+                        </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+土木工程设计软件应用        
+         # 
+        (20224096.01)
+            (邓扬,赵赤云)
+        <br style="mso-data-placement: same-cell">
+        (12-17  基础楼B座-310教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+桥梁基础设计        
+        
+        (20225147.01)
+            (侯苏伟)
+        <br style="mso-data-placement: same-cell">
+        (6-17  学院楼A座-116教室
+        (大兴校区))
+        
+                        </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:#EEFF00">
+                <font size="2px"> 第二节</font><br>
+08:50 -
+09:35
+            </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:#EEFF00">
+                <font size="2px"> 第三节</font><br>
+09:55 -
+10:40
+            </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+建筑设备        
+         # 
+        (20421014.06)
+            (于丹)
+        <br style="mso-data-placement: same-cell">
+        (6-17  基础楼A座-东侧315教室
+        (大兴校区))
+        
+                        </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+土木工程施工II        
+        
+        (20225154.01)
+            (张新天)
+        <br style="mso-data-placement: same-cell">
+        (6-13,15-17  基础楼A座-东侧311教室
+        (大兴校区))
+        
+                        </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+建筑基础设计        
+        
+        (20224104.02)
+            (庄鹏,韩淼)
+        <br style="mso-data-placement: same-cell">
+        (6-16  学院楼A座-115教室
+        (大兴校区))
+        
+                        </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+道路桥梁计算机辅助设计        
+         # 
+        (20225148.01)
+            (吴宜峰)
+        <br style="mso-data-placement: same-cell">
+        (9,13,17  基础楼B座-310教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+道路桥梁计算机辅助设计        
+         # 
+        (20225148.01)
+            (吴宜峰)
+        <br style="mso-data-placement: same-cell">
+        (6-8,10-12,14-16  基础楼A座-西侧223教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+隧道及边坡工程        
+        
+        (20226111.01)
+            (屈小磊)
+        <br style="mso-data-placement: same-cell">
+        (6-17  基础楼A座-东侧108教室
+        (大兴校区))
+        
+                        </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+地下工程概预算        
+        
+        (20221057.01)
+            (杨静)
+        <br style="mso-data-placement: same-cell">
+        (6-11  学院楼E座（土木楼）-307教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+建筑工程概预算        
+        
+        (20221032.03)
+            (曲秀姝)
+        <br style="mso-data-placement: same-cell">
+        (6-11  基础楼A座-西侧520教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+土木工程设计软件应用        
+         # 
+        (20224096.01)
+            (邓扬,赵赤云)
+        <br style="mso-data-placement: same-cell">
+        (12-17  基础楼B座-310教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+土木工程施工II        
+        
+        (20225154.01)
+            (张新天)
+        <br style="mso-data-placement: same-cell">
+        (14  基础楼A座-东侧315教室
+        (大兴校区))
+        
+                        </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:#EEFF00">
+                <font size="2px"> 第四节</font><br>
+10:45 -
+11:30
+            </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:#33BB00">
+                <font size="2px"> 第五节</font><br>
+13:30 -
+14:15
+            </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+地下工程概预算        
+        
+        (20221057.01)
+            (杨静)
+        <br style="mso-data-placement: same-cell">
+        (6-11  学院楼E座（土木楼）-307教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+建筑工程概预算        
+        
+        (20221032.03)
+            (曲秀姝)
+        <br style="mso-data-placement: same-cell">
+        (6-11  基础楼A座-西侧341教室
+        (大兴校区))
+        
+                        </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+高层建筑结构设计         * 
+        
+        (20224003.01)
+            (何淅淅)
+        <br style="mso-data-placement: same-cell">
+        (6-17  学院楼B座-317教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+道路检测与维修新技术        
+         # 
+        (20225180.02)
+            (王佳妮,侯苏伟)
+        <br style="mso-data-placement: same-cell">
+        (6-11  基础楼A座-东侧111教室
+        (大兴校区))
+        
+                        </td>
+                        <td rowspan="3"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+建筑基础设计        
+        
+        (20224104.02)
+            (庄鹏,韩淼)
+        <br style="mso-data-placement: same-cell">
+        (17  基础楼A座-西侧223教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+建设工程项目管理        
+        
+        (20221001.01)
+            (王亮)
+        <br style="mso-data-placement: same-cell">
+        (6-11,13  基础楼A座-东侧116教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+建设工程项目管理        
+        
+        (20221001.01)
+            (王亮)
+        <br style="mso-data-placement: same-cell">
+        (12  学院楼A座-101教室
+        (大兴校区))
+        
+                        </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+高层建筑结构设计         * 
+        
+        (20224003.01)
+            (何淅淅)
+        <br style="mso-data-placement: same-cell">
+        (6-15,17  学院楼B座-317教室
+        (大兴校区))
+        
+                        </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:#33BB00">
+                <font size="2px"> 第六节</font><br>
+14:20 -
+15:05
+            </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:#33BB00">
+                <font size="2px"> 第七节</font><br>
+15:15 -
+16:00
+            </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+高层建筑结构设计         * 
+        
+        (20224003.01)
+
+        <br style="mso-data-placement: same-cell">
+        (17  学院楼B座-317教室
+        (大兴校区))
+        
+                        </td>
+                        <td rowspan="3"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+高层建筑施工        
+         # 
+        (20221043.01)
+            (廖维张,王亮,侯敬峰)
+        <br style="mso-data-placement: same-cell">
+        (6-13  学院楼B座-317教室
+        (大兴校区))
+        
+                        </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:#33BB00">
+                <font size="2px"> 第八节</font><br>
+16:10 -
+16:55
+            </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+土木工程伦理        
+         # 
+        (20821096.03)
+            (秦红岭)
+        <br style="mso-data-placement: same-cell">
+        (6-17  基础楼A座-东侧116教室
+        (大兴校区))
+        
+                        </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:#33BB00">
+                <font size="2px"> 第九节</font><br>
+17:00 -
+17:45
+            </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:pink">
+                <font size="2px"> 第十节</font><br>
+18:30 -
+19:15
+            </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:pink">
+                <font size="2px"> 第十一节</font><br>
+19:20 -
+20:05
+            </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:pink">
+                <font size="2px"> 第十二节</font><br>
+20:10 -
+20:55
+            </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr style="height: 30px;">
+                <td>备注:</td>
+                <td>*表示集中考试 #表示非必修课</td>
+                <td style="text-align: left" colspan="6">
+                    施工组织课程设计  5周;
+                    桥梁基础课程设计  19周;
+                    生产与管理实习  1-4周;
+                    生产与管理实习  1-4周;
+                    生产与管理实习  1-4周;
+                    假期工程实践  21-25周;
+                    假期工程实践  21-25周;
+                    假期工程实践  21-25周;
+                    建筑基础课程设计  18周;
+                    施工组织课程设计  5周;
+                    建筑基础课程设计  18周;
+                    建筑工程概预算课程设计  19周;
+                    路基路面课程设计  18周;
+                    基坑支护课程设计  19周;
+                    施工组织课程设计  5周;
+                </td>
+        </tr>
+<table>
+        <table style="border: #0b90f4 1px solid;width: 100%;border-collapse: collapse">
+            <tr>
+                <td colspan="8">各校区作息时间说明:</td>
+            </tr>
+                    <tr>
+                        <td style="border: #2e9ad0 1px solid" rowspan="2">西城校区</td>
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第一节     08:00~
+    08:45
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第二节     08:50~
+    09:35
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第三节     09:55~
+    10:40
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第四节     10:45~
+    11:30
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第五节     13:30~
+    14:15
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第六节     14:20~
+    15:05
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第七节     15:15~
+    16:00
+</td>
+                    </tr><tr>
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第八节     16:10~
+    16:55
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第九节     17:00~
+    17:45
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第十节     18:30~
+    19:15
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第十一节     19:20~
+    20:05
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第十二节     20:10~
+    20:55
+</td>
+                    
+                            <td style="border: #2e9ad0 1px solid"></td>
+                            <td style="border: #2e9ad0 1px solid"></td>
+                    </tr>
+                    <tr>
+                        <td style="border: #2e9ad0 1px solid" rowspan="2">大兴校区</td>
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第一节     08:00~
+    08:45
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第二节     08:50~
+    09:35
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第三节     09:55~
+    10:40
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第四节     10:45~
+    11:30
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第五节     13:30~
+    14:15
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第六节     14:20~
+    15:05
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第七节     15:15~
+    16:00
+</td>
+                    </tr><tr>
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第八节     16:10~
+    16:55
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第九节     17:00~
+    17:45
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第十节     18:30~
+    19:15
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第十一节     19:20~
+    20:05
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第十二节     20:10~
+    20:55
+</td>
+                    
+                            <td style="border: #2e9ad0 1px solid"></td>
+                            <td style="border: #2e9ad0 1px solid"></td>
+                    </tr>
+
+        </table>
+

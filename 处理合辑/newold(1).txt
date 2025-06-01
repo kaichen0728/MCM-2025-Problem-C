@@ -1,0 +1,119 @@
+Year: 1900
+Added sports: rowing, sailing, archery, rugby, golf, equestrian, tug-of-war, football, basque pelota, cricket, polo, water polo, croquet
+Removed sports: wrestling, weightlifting
+
+Year: 1904
+Added sports: wrestling, weightlifting, diving, roque, boxing, lacrosse
+Removed sports: sailing, shooting, rugby, equestrian, basque pelota, cricket, polo, croquet
+
+Year: 1906
+Added sports: shooting
+Removed sports: archery, roque, boxing, golf, water polo, lacrosse
+
+Year: 1908
+Added sports: jeu de paume, sailing, archery, racquets, hockey, boxing, rugby, motorboating, lacrosse, polo, water polo, figure skating
+Removed sports: weightlifting
+
+Year: 1912
+Added sports: modern pentathlon, equestrian, art competitions
+Removed sports: jeu de paume, archery, racquets, hockey, boxing, figure skating, rugby, motorboating, polo, lacrosse
+
+Year: 1920
+Added sports: weightlifting, archery, hockey, boxing, rugby, ice hockey, polo, figure skating
+Removed sports: 
+
+Year: 1924
+Added sports: 
+Removed sports: archery, hockey, tug-of-war, ice hockey, figure skating
+
+Year: 1928
+Added sports: hockey
+Removed sports: shooting, tennis, polo, rugby
+
+Year: 1932
+Added sports: shooting, alpinism
+Removed sports: football
+
+Year: 1936
+Added sports: canoeing, aeronautics, football, polo, basketball, handball
+Removed sports: 
+
+Year: 1948
+Added sports: 
+Removed sports: aeronautics, polo, alpinism, handball
+
+Year: 1952
+Added sports: 
+Removed sports: art competitions
+
+Year: 1956
+Added sports: 
+Removed sports: 
+
+Year: 1960
+Added sports: 
+Removed sports: 
+
+Year: 1964
+Added sports: volleyball, judo
+Removed sports: 
+
+Year: 1968
+Added sports: 
+Removed sports: judo
+
+Year: 1972
+Added sports: archery, handball, judo
+Removed sports: 
+
+Year: 1976
+Added sports: 
+Removed sports: 
+
+Year: 1980
+Added sports: 
+Removed sports: 
+
+Year: 1984
+Added sports: 
+Removed sports: 
+
+Year: 1988
+Added sports: table tennis, tennis
+Removed sports: 
+
+Year: 1992
+Added sports: baseball, badminton
+Removed sports: 
+
+Year: 1996
+Added sports: beach volleyball, softball
+Removed sports: 
+
+Year: 2000
+Added sports: triathlon, taekwondo, trampolining
+Removed sports: 
+
+Year: 2004
+Added sports: 
+Removed sports: 
+
+Year: 2008
+Added sports: 
+Removed sports: 
+
+Year: 2012
+Added sports: 
+Removed sports: baseball, softball
+
+Year: 2016
+Added sports: golf, rugby
+Removed sports: 
+
+Year: 2020
+Added sports: sport climbing, softball, surfing, karate, skateboarding, 3x3 basketball, baseball
+Removed sports: trampolining
+
+Year: 2024
+Added sports: breaking
+Removed sports: baseball, karate, softball

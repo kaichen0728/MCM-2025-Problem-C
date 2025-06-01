@@ -1,0 +1,11 @@
+    Columns("A:L").Select
+    Range("A5").Activate
+    Selection.UnMerge
+    Range("B3:C3").Select
+    Selection.AutoFill Destination:=Range("B3:C4"), Type:=xlFillDefault
+    Range("B3:C4").Select
+    Columns("A:A").Select
+    Selection.Delete Shift:=xlToLeft
+    Rows("1:3").Select
+    Selection.Delete Shift:=xlUp
+    Range("B6").Select

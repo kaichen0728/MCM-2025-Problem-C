@@ -1,0 +1,475 @@
+ 
+    <table style="width: 100%;">
+            <tr><td colspan="8" style="font-size: 2em;font-weight:bold;text-align: center;">班级课表</td></tr>
+            <tr><td colspan="8" style="font-size: 1.5em;font-weight:bold;text-align: center;">2019-2020学年第一学期</td></tr>
+            <tr><td colspan="8">班级名称:土171&nbsp;&nbsp;&nbsp; 所属专业:土木工程（建筑工程方向）&nbsp;&nbsp;&nbsp; 应选学分:27 &nbsp;&nbsp;&nbsp; 计划人数/实际人数: 34/41</td></tr>
+
+    </table>
+<table width="100%" id="manualArrangeCourseTable" align="center" class="gridtable" style="text-align:center" border="1">
+    <thead>
+    <tr>
+        <th style="background-color:#DEEDF7;" height="10px" width="">节次/周次
+        </td>
+            <th style="background-color:#DEEDF7;">
+                <font size="2px">星期一</font>
+            </th>
+            <th style="background-color:#DEEDF7;">
+                <font size="2px">星期二</font>
+            </th>
+            <th style="background-color:#DEEDF7;">
+                <font size="2px">星期三</font>
+            </th>
+            <th style="background-color:#DEEDF7;">
+                <font size="2px">星期四</font>
+            </th>
+            <th style="background-color:#DEEDF7;">
+                <font size="2px">星期五</font>
+            </th>
+            <th style="background-color:#DEEDF7;">
+                <font size="2px">星期六</font>
+            </th>
+            <th style="background-color:#DEEDF7;">
+                <font size="2px">星期日</font>
+            </th>
+    </tr>
+    </thead>
+
+        <tr>
+            <td style="background-color:#EEFF00">
+                <font size="2px"> 第一节</font><br>
+08:00 -
+08:45
+            </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+土力学         * 
+        
+        (20226005.02)
+            (孔令明)
+        <br style="mso-data-placement: same-cell">
+        (1-16  学院楼B座-317教室
+        (大兴校区))
+        
+                        </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:#EEFF00">
+                <font size="2px"> 第二节</font><br>
+08:50 -
+09:35
+            </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:#EEFF00">
+                <font size="2px"> 第三节</font><br>
+09:55 -
+10:40
+            </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+混凝土结构设计原理         * 
+        
+        (20224126.03)
+            (祝磊,刘栋栋)
+        <br style="mso-data-placement: same-cell">
+        (1-16  学院楼F座（测绘楼）-321教室
+        (大兴校区))
+        
+                        </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+土力学（双语）         * 
+        
+        (20226115.01)
+            (齐吉琳)
+        <br style="mso-data-placement: same-cell">
+        (1-16  学院楼A座-120教室
+        (大兴校区))
+        
+                        </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+结构力学（双语）（2）         * 
+        
+        (20223030.01)
+            (程蓓,李晓照)
+        <br style="mso-data-placement: same-cell">
+        (1-12  基础楼D座-220教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+结构力学（2）         * 
+        
+        (20223007.02)
+            (程蓓,李晓照)
+        <br style="mso-data-placement: same-cell">
+        (1-12  学院楼B座-205教室
+        (大兴校区))
+        
+                        </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+混凝土结构设计原理         * 
+        
+        (20224126.03)
+            (祝磊,刘栋栋)
+        <br style="mso-data-placement: same-cell">
+        (1-16  学院楼F座（测绘楼）-321教室
+        (大兴校区))
+        
+                        </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+结构力学（双语）（2）         * 
+        
+        (20223030.01)
+            (程蓓,李晓照)
+        <br style="mso-data-placement: same-cell">
+        (1-12  基础楼D座-220教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+结构力学（2）         * 
+        
+        (20223007.02)
+            (程蓓,李晓照)
+        <br style="mso-data-placement: same-cell">
+        (1-12  学院楼A座-120教室
+        (大兴校区))
+        
+                        </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:#EEFF00">
+                <font size="2px"> 第四节</font><br>
+10:45 -
+11:30
+            </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:#33BB00">
+                <font size="2px"> 第五节</font><br>
+13:30 -
+14:15
+            </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+房屋建筑学        
+        
+        (20223104.02)
+            (常宏达)
+        <br style="mso-data-placement: same-cell">
+        (1-10  学院楼B座-317教室
+        (大兴校区))
+        
+                        </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+建设工程法规        
+        
+        (20623020.04)
+            (严波)
+        <br style="mso-data-placement: same-cell">
+        (1-8  学院楼A座-101教室
+        (大兴校区))
+        
+                        </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+房屋建筑学        
+        
+        (20223104.02)
+            (常宏达)
+        <br style="mso-data-placement: same-cell">
+        (1-10  学院楼B座-317教室
+        (大兴校区))
+        
+                        </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:#33BB00">
+                <font size="2px"> 第六节</font><br>
+14:20 -
+15:05
+            </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:#33BB00">
+                <font size="2px"> 第七节</font><br>
+15:15 -
+16:00
+            </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+建筑经济与企业管理        
+         # 
+        (20621003.05)
+            (康飞)
+        <br style="mso-data-placement: same-cell">
+        (1-12  学院楼B座-205教室
+        (大兴校区))
+        
+                        </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+电工学        
+         # 
+        (20721033.01)
+            (汪杰,祁新春)
+        <br style="mso-data-placement: same-cell">
+        (16  学院楼D座（电信楼）-302教室
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+电工学        
+         # 
+        (20721033.01)
+            (汪杰,祁新春)
+        <br style="mso-data-placement: same-cell">
+        (13-15  工程实践创新中心-金工楼211
+        (大兴校区))
+        <br style="mso-data-placement: same-cell">
+电工学        
+         # 
+        (20721033.01)
+            (汪杰,祁新春)
+        <br style="mso-data-placement: same-cell">
+        (1-12  基础楼A座-东侧215教室
+        (大兴校区))
+        
+                        </td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+弹性力学        
+         # 
+        (20223012.01)
+            (董军,李国华)
+        <br style="mso-data-placement: same-cell">
+        (1-11  学院楼B座-317教室
+        (大兴校区))
+        
+                        </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:#33BB00">
+                <font size="2px"> 第八节</font><br>
+16:10 -
+16:55
+            </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:#33BB00">
+                <font size="2px"> 第九节</font><br>
+17:00 -
+17:45
+            </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:pink">
+                <font size="2px"> 第十节</font><br>
+18:30 -
+19:15
+            </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                        <td rowspan="2"
+                            style="backGround-Color:#ffffff;font-size:12px;text-align: center">
+弹性力学        
+         # 
+        (20223012.01)
+            (董军,李国华)
+        <br style="mso-data-placement: same-cell">
+        (12-16  学院楼E座（土木楼）-307教室
+        (大兴校区))
+        
+                        </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:pink">
+                <font size="2px"> 第十一节</font><br>
+19:20 -
+20:05
+            </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr>
+            <td style="background-color:pink">
+                <font size="2px"> 第十二节</font><br>
+20:10 -
+20:55
+            </td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+                    <td style="backGround-Color:#ffffff;font-size:12px"></td>
+        </tr>
+        <tr style="height: 30px;">
+                <td>备注:</td>
+                <td>*表示集中考试 #表示非必修课</td>
+                <td style="text-align: left" colspan="6">
+                    房屋建筑学课程设计  18周;
+                    混凝土结构设计原理课程设计  19周;
+                </td>
+        </tr>
+<table>
+        <table style="border: #0b90f4 1px solid;width: 100%;border-collapse: collapse">
+            <tr>
+                <td colspan="8">各校区作息时间说明:</td>
+            </tr>
+                    <tr>
+                        <td style="border: #2e9ad0 1px solid" rowspan="2">西城校区</td>
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第一节     08:00~
+    08:45
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第二节     08:50~
+    09:35
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第三节     09:55~
+    10:40
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第四节     10:45~
+    11:30
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第五节     13:30~
+    14:15
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第六节     14:20~
+    15:05
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第七节     15:15~
+    16:00
+</td>
+                    </tr><tr>
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第八节     16:10~
+    16:55
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第九节     17:00~
+    17:45
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第十节     18:30~
+    19:15
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第十一节     19:20~
+    20:05
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第十二节     20:10~
+    20:55
+</td>
+                    
+                            <td style="border: #2e9ad0 1px solid"></td>
+                            <td style="border: #2e9ad0 1px solid"></td>
+                    </tr>
+                    <tr>
+                        <td style="border: #2e9ad0 1px solid" rowspan="2">大兴校区</td>
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第一节     08:00~
+    08:45
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第二节     08:50~
+    09:35
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第三节     09:55~
+    10:40
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第四节     10:45~
+    11:30
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第五节     13:30~
+    14:15
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第六节     14:20~
+    15:05
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第七节     15:15~
+    16:00
+</td>
+                    </tr><tr>
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第八节     16:10~
+    16:55
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第九节     17:00~
+    17:45
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第十节     18:30~
+    19:15
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第十一节     19:20~
+    20:05
+</td>
+                    
+                        <td style="border: #2e9ad0 1px solid;mso-number-format:'\@';">第十二节     20:10~
+    20:55
+</td>
+                    
+                            <td style="border: #2e9ad0 1px solid"></td>
+                            <td style="border: #2e9ad0 1px solid"></td>
+                    </tr>
+
+        </table>
+

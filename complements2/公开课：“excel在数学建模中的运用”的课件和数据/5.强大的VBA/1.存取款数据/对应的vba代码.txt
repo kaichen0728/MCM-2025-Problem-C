@@ -1,0 +1,17 @@
+Sub hhh()   '  名为hhh的函数
+    Dim i, j, k As Integer   ' 定义三个整数型变量 i,j,k
+    k = 2  ' 从Sheet2的第二行开始填写数值
+    For i = 4 To 368  ' 遍历Sheet1的第4行到第368行（一年的365天）
+        For j = 2 To 60 Step 2 ' 遍历Sheet1的第2、4、6、一直到第60列（30个省份）
+            ' 日期（把Sheet1的第i行第1列的元素赋值给Sheet2的第k行第1列）
+            Sheet2.Cells(k, 1) = Sheet1.Cells(i, 1)
+            ' 省份（把Sheet1的第2行第j列的元素赋值给Sheet2的第k行第2列）
+            Sheet2.Cells(k, 2) = Sheet1.Cells(2, j)
+            ' 存款（把Sheet1的第i行第j列的元素赋值给Sheet2的第k行第3列）
+            Sheet2.Cells(k, 3) = Sheet1.Cells(i, j)
+            ' 取款（把Sheet1的第i行第j+1列的元素赋值给Sheet2的第k行第4列）
+            Sheet2.Cells(k, 4) = Sheet1.Cells(i, j + 1)
+            k = k + 1 ' 准备在Sheet2的下一行继续填写数值
+        Next
+    Next
+End Sub

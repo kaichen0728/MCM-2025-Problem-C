@@ -1,0 +1,5 @@
+因为我自己写的杀毒软件会报毒，所以这里就不提供文件了。
+想学习的同学只需要看下面这三个链接即可。（需要VBA编程的基础）
+' VBA获取网页内容的参考: http://www.exceloffice.net/archives/2025
+' Excel中正则表达式的应用 http://club.excelhome.net/thread-1128647-1-1.html
+' 定时运行VBA代码 https://www.zhihu.com/question/41246577/answer/90208397

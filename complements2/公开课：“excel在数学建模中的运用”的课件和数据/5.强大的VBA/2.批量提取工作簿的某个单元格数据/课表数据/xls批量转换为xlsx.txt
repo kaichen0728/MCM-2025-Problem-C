@@ -1,0 +1,19 @@
+Sub 遍历文件并另存为()
+  Application.ScreenUpdating = False
+  Dim filename As String, mypath As String, k As Integer, fullna As String
+  mypath = ThisWorkbook.Path '返回代码所在文件的路径
+  filename = Dir(mypath & "\*.xls") '实际返回的只是文件名
+  Do
+    fullna = mypath & "\" & filename '加上路径用\连接文件名才是完整的文件路径，这句得写在循环里面根据循环变化，然后使用Kill删除文件
+    If filename Like "*.xls" And filename <> ThisWorkbook.FullName Then '条件是文件类型是.xls，并且循环的路径不等于代码所在的文件
+        Workbooks.Open (fullna) '打开循环文件，打开的依然是.xls格式的文件
+        cc = Replace(fullna, ".xls", ".xlsx") '将路径中文件的.xls替换为.xlsx作为另存为的文件名称及路径
+        ActiveWorkbook.SaveAs filename:=cc, FileFormat:=xlOpenXMLWorkbook, CreateBackup:=False '通过录制宏获得
+        ActiveWorkbook.Close False '关闭文件，不保存Colse后面 True是保存
+        ' Kill fullna '删除原来的.xls文件
+    End If
+    filename = Dir '再次载入路径用以循环使用
+  Loop Until filename = ""  '循环停止条件
+  MsgBox "另存完毕"
+  Application.ScreenUpdating = True
+ End Sub
